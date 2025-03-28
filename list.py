@@ -86,3 +86,18 @@ print("Index of 4 in tuple:", index)
 """
 
 # Experiment with the provided examples and modify them to deepen your understanding!
+
+movies = []
+
+movies.append(input("enter first movie: "))
+mov2 = input("enter second movie: ")
+
+mov3 = input("enter third movie: ")
+movies.append(mov3)
+mov4 = input("inter fourth movie: ") 
+
+movies.append(mov2)
+movies.append(mov4)
+
+print(movies)
+
